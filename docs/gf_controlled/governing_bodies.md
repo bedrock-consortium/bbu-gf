@@ -25,7 +25,7 @@ This document lists all official governing bodies of the Bedrock Consortium Foun
 ## Governing Board
 The Bedrock Consortium Governing Board is the overall governing body of the Bedrock Consortium Foundation. It is chartered by the Bedrock Business Utility Fund as stated in the Participation Agreement. The Governing Board is composed of ```Governing Members``` who have the obligation to represent the interests of the Identity Owners of the Bedrock Consortium Community.
 
-* **Charter Location**: [Participation Agreement (MS-WORD)](./contracts/bbu_participation_agreement.docx)
+* **Charter Location**: [Participation Agreement (PDF)](../gf_legal/contracts/watermarked/bbu_participation_agreement.pdf)
 * **Suggested Participant Skills**: The strategic thinking leaders that have some degree of technical and business problem solving skills. People management and contract negotiation experience is a plus. A passion for understanding public identity utilities and a stakeholder in the success of an interoperable digital trust marketplace.
 
 It has sole authority for:

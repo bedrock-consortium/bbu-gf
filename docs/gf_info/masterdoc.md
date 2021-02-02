@@ -47,7 +47,7 @@ The BBU-GF formally consists of a set of interrelated documents that collectivel
 | Controlled Documents (Blue)| Member Business Policies |Governing qualification, application, activation, operation, suspension, and termination of members.|
 | Controlled Documents (Blue)| Member Technical Policies |Governing the security, node operation, node selection, and reporting requirements for members.|
 |Controlled Documents (Blue)| Economic Policies | Governing economic incentives, fees, and regulatory compliance and budgetary management.|
-|Controlled Documents (Blue)| Bedrock Certification Mark Policies |Governing the establishment of and use of the Bedrock Certification policies for ecosystem stakeholders. |
+|Controlled Documents (Blue)| Bedrock Trust Mark Policies |Governing the establishment of and use of the Bedrock Trust Mark policies for ecosystem stakeholders. |
 
 ### Core Principles
 See [BBU Principles](./principles.md).

@@ -3,7 +3,7 @@ No single organization owns the BBU.
 
 The Bedrock Consortium is a [Linux Foundation](https://www.linuxfoundation.org) project that supports the operation of the Bedrock Business Utility (the “Utility” or "BBU"), an independent self-governed and self-sustainable public identity utility.
 
-The members of the Bedrock Consortium represent a collection of international private sector companies and other organizations that operate and manage the Utility.  The Bedrock Consortium, a directed fund of the Linux Foundation (“LF”), serves the purpose of raising, budgeting and spending funds in support of the Utility and the Bedrock Technical Project , which is tasked with the mission of supporting the technical needs of the  Utility.
+The members of the Bedrock Consortium represent a collection of international private sector companies and other organizations that utilize, operate and manage the Utility.  The Bedrock Consortium, a directed fund of the Linux Foundation (“LF”), serves the purpose of raising, budgeting and spending funds in support of the Utility and the Bedrock Technical Project , which is tasked with the mission of supporting the technical needs of the  Utility.
 
 LF Governance Networks, Inc., a Delaware non-profit corporation, supports the Utility by executing the various agreements relating to the management of, or transacting with, the Utility.
 
@@ -11,7 +11,7 @@ LF Governance Networks, Inc., a Delaware non-profit corporation, supports the Ut
 The BBU is designed to be a public access utility for all industries and sectors. Participation in the BUU is not restricted to any set of industries.
 
 ### How does a business benefit from joining the BBU?
-We know that convening ecosystems is time consuming and challenging. The BBU is an established digital trust ecosystem supplying a permissioned infrastructure to foster accelerated ecosystem adoption eliminating the need for individual organizations to “grow their own” – reducing cost and complexity and improving speed to market when implementing a solution.
+We know that convening ecosystems is time consuming and challenging. The BBU is an established digital trust ecosystem supplying a permissioned infrastructure (open read access but only authorized users will have write access), to foster accelerated ecosystem adoption eliminating the need for individual organizations to “grow their own” – reducing cost and complexity and improving speed to market when implementing a solution.
 
 Becoming a member of this network affords businesses a low cost option to access a trusted, decentralized ledger that enforces privacy regulation, a sustainable financial model, collective ownership and adherence to open standards and protocols of ToIP as well as access to a wide range of ecosystem partners.
 
@@ -55,11 +55,10 @@ Each member must sign a set of legal agreements that cover the obligations, rest
 Membership rates will be determined by the selected membership level (e.g. Governing, Operational or Subscriber). Details can be found in [Pricing](./gf_info/fee_schedule.md).
 
 ### Who is responsible for hosting and managing a node?
-Any member of the Bedrock Business Utility that is required to host a utility infrastructure node is considered a Steward and is responsible for the financial demands of hosting a node. Such expenditures are considered out-of-pocket expenses and are not related to the members annual membership obligations. See [membership types](./gf_info/membership.md).
+Any member of the Bedrock Business Utility that is required to host a utility infrastructure node is considered a Steward and is responsible for the financial demands of hosting a node. Such expenditures are considered out-of-pocket expenses and are not related to the members annual membership obligations. See [membership types](./gf_info/membership.md) and [Member Technical and Organizational Policies](./gf_controlled/member_top.md).
 
 ### What are the participation requirements for members with respect to working groups?
-Governing and Operational members will be required to assign participation of appropriately skilled resource(s) on as part of committees/working groups as well as the technical project. Subscribers are not required to fulfill such requirements. See [membership types](./gf_info/membership.md).
-
+Governing and Operational members will be required to assign participation of appropriately skilled resource(s) on as part of committees/working groups as well as the technical project. Subscribers are not required to fulfill such requirements. See [membership types](./gf_info/membership.md) 
 ### What is a financially incentive for a Steward to continue long-term participation?
 Each participating member will need to make an annual decision on the ROI of their investment.
 

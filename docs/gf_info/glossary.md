@@ -1,9 +1,9 @@
 The Industry working on a convergence of industry terms between several glossary efforts, namely:
 
-* [ToIP Glossary]()
+* ToIP Glossary - UNDER CONSTRUCTION and currently refers to Sovrin Glossary, per ToIP Concepts and Terminology Working Group
 * DIF Glossary Working Group](https://dif.groups.io/g/glossary)
 * [Sovrin Glossary](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8)
-* [NIST Glossary: A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems (p50-51)](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.07092019-draft.pdf)
+* [NIST Glossary: A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems (final)](https://csrc.nist.gov/publications/detail/white-paper/2020/01/14/a-taxonomic-approach-to-understanding-emerging-blockchain-idms/final)
 
 The contents herein are considered additional terms specific to the **Bedrock Business Utility**.
 
