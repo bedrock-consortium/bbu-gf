@@ -8,7 +8,7 @@ The BBU is a public identity utility operated by the [Bedrock Consortium Project
 
 1. Online Governance Framework Docs
     * [GitHub Pages](https://bedrock-consortium.github.io/bbu-gf/)
-    * [BBU GF Website Alias](bbu.bedrockconsortium.org/)
+    * [BBU GF Website Alias](http://bbu.bedrockconsortium.org/)
 2. BBU Governance Framework Docs ([PDF Version](https://github.com/bedrock-consortium/bbu-gf/blob/master/pdf/bedrock-business-utility-gf.pdf))
 
 ## Build Process
